@@ -40,7 +40,7 @@ a.logo img{
 }
 .hero-area-content{
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 35%;
     color: #fff;
     text-align: center;
@@ -48,7 +48,6 @@ a.logo img{
 .hero-area-content p{
     text-transform: uppercase;
     letter-spacing: 4px;
-    padding: 10px;
 }
 .hero-area-content h2{
     font-size: 80px;
